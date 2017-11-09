@@ -1,12 +1,12 @@
 {
   "name": "electron-json-storage",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "Easily write and read user settings in Electron apps",
   "main": "lib/storage.js",
-  "homepage": "https://github.com/electron-userland/electron-json-storage",
+  "homepage": "https://github.com/zooshgroup/electron-json-storage",
   "repository": {
     "type": "git",
-    "url": "git://github.com/electron-userland/electron-json-storage.git"
+    "url": "git://github.com/zooshgroup/electron-json-storage.git"
   },
   "directories": {
     "test": "tests"
