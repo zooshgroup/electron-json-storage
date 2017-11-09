@@ -1,5 +1,5 @@
 {
-  "name": "electron-json-storage",
+  "name": "@zooshgroup/electron-json-storage",
   "version": "4.0.3",
   "description": "Easily write and read user settings in Electron apps",
   "main": "lib/storage.js",
